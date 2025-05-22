@@ -11,12 +11,12 @@
 - [x] ✅ Debugging and Profiling
 - [x] ✅ Metaprogramming (build systems, dependency management, testing, CI)
 - [x] ✅ Security and Cryptography
-- [ ] 📝 Potpourri
-- [ ] 📝 Q&A
+- [x] ✅ Potpourri
+- [x] ✅ Q&A
 
 ---
 
 ## Personal Note
 
-I wish I could have taken this course when I first started learning programming. If I could do it again, I would definitely take more foundational courses like this one. It's not boring at all—in fact, it makes you want to keep studying! 👍 I strongly recommend it to anyone who wants to learn programming. 👍👍 🚀
+I wish I could have taken this course when I first started learning programming. If I could do it again, I would definitely take more foundational courses like this one. It's not boring at all—in fact, it makes you want to keep studying! 👍 I strongly recommend it as the first class to take to anyone who wants to learn programming. 🚀
 
